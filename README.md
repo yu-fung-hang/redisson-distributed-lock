@@ -53,3 +53,6 @@ lock.unlock();
 
 ![System Design](https://github.com/tugayesilyurt/spring-redis-pubsub-distributed-lock/blob/main/assets/design.PNG)
 
+## Reference
+
+https://medium.com/@htyesilyurt/distributed-lock-with-redisson-rlock-and-spring-boot-redis-pub-sub-86d51fd83e8b
